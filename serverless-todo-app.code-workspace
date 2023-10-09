@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "terraform"
+    },
+    {
+      "path": "notify-function"
+    }
+  ],
+  "settings": {}
+}
